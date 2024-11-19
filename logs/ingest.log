@@ -1,0 +1,30 @@
+2024-11-19 01:45:40,610 - INFO - Downloading dataset 'ImperialCollegeLondon/health_fact'
+2024-11-19 01:45:44,133 - INFO - Saving train split to ./data/raw/train.csv.
+2024-11-19 01:45:44,727 - INFO - Saving test split to ./data/raw/test.csv.
+2024-11-19 01:45:44,801 - INFO - Saving validation split to ./data/raw/validation.csv.
+2024-11-19 01:45:44,873 - INFO - Dataset successfully saved to './data/raw'.
+2024-11-19 01:47:06,009 - INFO - Downloading dataset 'ImperialCollegeLondon/health_fact'
+2024-11-19 01:47:09,736 - INFO - Saving train split to ./data/raw/train.csv.
+2024-11-19 01:47:10,323 - INFO - Saving test split to ./data/raw/test.csv.
+2024-11-19 01:47:10,397 - INFO - Saving validation split to ./data/raw/validation.csv.
+2024-11-19 01:47:10,468 - INFO - Dataset successfully saved to './data/raw'.
+2024-11-19 01:47:43,076 - INFO - Downloading dataset 'ImperialCollegeLondon/health_fact'
+2024-11-19 01:47:46,464 - INFO - Saving train split to ./../data/raw/train.csv.
+2024-11-19 01:47:47,062 - INFO - Saving test split to ./../data/raw/test.csv.
+2024-11-19 01:47:47,135 - INFO - Saving validation split to ./../data/raw/validation.csv.
+2024-11-19 01:47:47,206 - INFO - Dataset successfully saved to './../data/raw'.
+2024-11-19 02:08:09,154 - INFO - Downloading dataset 'ImperialCollegeLondon/health_fact'
+2024-11-19 02:08:13,080 - INFO - Saving train split to ./../data/raw/train.csv.
+2024-11-19 02:08:13,791 - INFO - Saving test split to ./../data/raw/test.csv.
+2024-11-19 02:08:13,882 - INFO - Saving validation split to ./../data/raw/validation.csv.
+2024-11-19 02:08:13,968 - INFO - Dataset successfully saved to './../data/raw'.
+2024-11-19 17:47:39,069 - INFO - Downloading dataset 'ImperialCollegeLondon/health_fact'
+2024-11-19 17:47:42,005 - INFO - Saving train split to ./../data/raw/train.csv
+2024-11-19 17:47:42,691 - INFO - Saving test split to ./../data/raw/test.csv
+2024-11-19 17:47:42,785 - INFO - Saving validation split to ./../data/raw/validation.csv
+2024-11-19 17:47:42,872 - INFO - Dataset saved to './../data/raw'.
+2024-11-19 17:49:52,528 - INFO - Loading features from ./../data/features.
+2024-11-19 17:49:52,542 - INFO - Initializing BigBird model.
+2024-11-19 17:49:53,644 - INFO - Setting up training arguments.
+2024-11-19 17:49:53,664 - INFO - Initializing Trainer.
+2024-11-19 17:49:53,874 - INFO - Starting training.

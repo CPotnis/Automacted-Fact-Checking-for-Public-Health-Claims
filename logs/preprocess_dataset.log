@@ -1,0 +1,7 @@
+2024-11-19 17:49:04,357 - INFO - Loading raw dataset from ./../data/raw.
+2024-11-19 17:49:05,702 - INFO - Initializing tokenizer for nbroad/bigbird-base-health-fact.
+2024-11-19 17:49:06,174 - INFO - Tokenizing dataset.
+2024-11-19 17:49:07,649 - INFO - Adding labels to tokenized dataset.
+2024-11-19 17:49:07,693 - INFO - Formatting dataset for PyTorch.
+2024-11-19 17:49:07,694 - INFO - Saving processed features to ./../data/features.
+2024-11-19 17:49:07,728 - INFO - Features saved successfully in ./../data/features.

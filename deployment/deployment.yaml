@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: health-claim-serve-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: health-claim-serve
+  template:
+    metadata:
+      labels:
+        app: health-claim-serve
+    spec:
+      containers:
+      - name: health-claim-serve
+        image: quantumalpha/claim-veracity-api:v1
+        ports:
+        - containerPort: 8000
+
+

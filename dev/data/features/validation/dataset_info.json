@@ -1,0 +1,88 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 6653581,
+  "description": "",
+  "download_checksums": {
+    "/Users/chaitanya/Code/Interview/Assessment/Onclusive/notebooks/./data/raw/validation.csv": {
+      "num_bytes": 6632474,
+      "checksum": null
+    }
+  },
+  "download_size": 6632474,
+  "features": {
+    "claim_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "claim": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "date_published": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "explanation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fact_checkers": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "main_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sources": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "subjects": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "labels": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 13286055,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 6653581,
+      "num_examples": 1225,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
